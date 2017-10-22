@@ -8,7 +8,7 @@
 
 For more than a decade, Ruby developers have turned to The Ruby Way for reliable “how-to” guidance on effective Ruby programming. Now, Hal Fulton and André Arko have thoroughly updated this classic guide to cover new language enhancements and developers’ experiences through Ruby 2.1.
 
-### [The Well-Grounded Rubyist 2nd Edition](https://www.manning.com/books/the-well-grounded-rubyist-second-edition)
+### [The Well-Grounded Rubyist 2nd Edition](http://docdro.id/Fj3c4ZU)
 
 <img src="https://hsto.org/getpro/habr/post_images/0fa/e48/c1b/0fae48c1ba9ce6380459402a49c67f54.jpg" width="120px"/>
 
@@ -21,6 +21,13 @@ The Well-Grounded Rubyist, Second Edition addresses both newcomers to Ruby as we
 <img src="https://images-na.ssl-images-amazon.com/images/I/41KtNo1H-DL._SX380_BO1,204,203,200_.jpg" width="120px"/>
 
 Eloquent Ruby starts small, answering tactical questions focused on a single statement, method, test, or bug. You’ll learn how to write code that actually looks like Ruby (not Java or C#); why Ruby has so many control structures; how to use strings, expressions, and symbols; and what dynamic typing is really good for.
+
+### [Confident Ruby](http://docdro.id/4jRCVeg)
+
+<img src="https://dance.computer.dance/images/books/confident-ruby.png" width="120px"/>
+
+Confident Ruby is, first and foremost, a book about joy. It’s about the joy I found when I first discovered how elegantly and succinctly I could state problems in Ruby code. It’s about the joy I gradually lost as the “real world” snuck in and cluttered my code with distracting edge case scenarios, error handling, and checks for nil. And it’s about how I came to recapture that joy, by employing small patterns and stylistic choices to make each method tell a coherent story.
+
 
 **Rails Books**
 ----
