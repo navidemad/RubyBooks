@@ -16,7 +16,7 @@ The Well-Grounded Rubyist, Second Edition addresses both newcomers to Ruby as we
 
 **Advanced Books**
 ---
-### [Eloquent Ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=0321584104&pd_rd_r=BVE53P2S753TR9WWA5SK&pd_rd_w=TlPIC&pd_rd_wg=jsYA1&psc=1&refRID=BVE53P2S753TR9WWA5SK)
+### [Eloquent Ruby](http://www.r-5.org/files/books/computers/languages/ruby/main/Russ_Olsen-Eloquent_Ruby-EN.pdf)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41KtNo1H-DL._SX380_BO1,204,203,200_.jpg" width="120px"/>
 
