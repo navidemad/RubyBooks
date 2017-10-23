@@ -37,6 +37,14 @@ Confident Ruby is, first and foremost, a book about joy. It’s about the joy I 
 
 Rails 5 and Ruby 2.2 bring many improvements, including new APIs and substantial performance enhancements, and the fifth edition of this award-winning classic is now updated! If you're new to Rails, you'll get step-by-step guidance. If you're an experienced developer, this book will give you the comprehensive, insider information you need for the latest version of Ruby on Rails.
 
+### [The Complete Guide to Rails Performance by Nate Berkopec](https://www.docdroid.net/4D8dMoi/complete-guide-to-rails-performance.pdf)
+
+<img src="https://static-2.gumroad.com/res/gumroad/3749077300444/asset_previews/913b6f8e62c08998f95b88f34e8128c3/retina/cover_small.jpg" width="120px" />
+
+Learn how to transform your snail-paced Rails app into a sub-100 millisecond powerhouse. The Complete Guide to Rails Performance teaches you how to make Ruby on Rails applications faster, more scalable, and easier to maintain.
+
+This is the Web Scale Package, which, in addition to the 350+ page Complete Guide, contains over 30 screencasts, 6 live Q&As with the author, and a 6-part interview series with accomplished Rubyists.
+
 Tutorials and screencasts
 ====
 
