@@ -31,7 +31,7 @@ Confident Ruby is, first and foremost, a book about joy. It’s about the joy I 
 
 **Rails Books**
 ----
-### [Agile Web Development with Rails 5](https://www.amazon.com/Agile-Web-Development-Rails-5/dp/1680501712/ref=pd_sim_14_14?_encoding=UTF8&pd_rd_i=1680501712&pd_rd_r=BVE53P2S753TR9WWA5SK&pd_rd_w=TlPIC&pd_rd_wg=jsYA1&psc=1&refRID=BVE53P2S753TR9WWA5SK)
+### [Agile Web Development with Rails 5](http://docdro.id/Kk6ulfY)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51hEQW90j7L._SX404_BO1,204,203,200_.jpg" width="120px" />
 
