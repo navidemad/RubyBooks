@@ -16,6 +16,18 @@ The Well-Grounded Rubyist, Second Edition addresses both newcomers to Ruby as we
 
 **Advanced Books**
 ---
+### [Rebuilding Rails](https://docdro.id/pw3fnIB)
+
+<img src="https://images.gr-assets.com/books/1362337146l/17457612.jpg" width="120px"/>
+
+Rebuilding Rails takes the reader through the exercise of building up a Rails like framework from a simple Rack-based gem.
+
+### [Refactoring Ruby](https://docdro.id/akzxz7r)
+
+<img src="http://t3.gstatic.com/images?q=tbn:ANd9GcREi-1s_L56OnSNonYJOUqT-48TMAwKtZ7pIo3oS0oinxGJcElK" width="120px"/>
+
+With refactoring, programmers can transform even the most chaotic software into well-designed systems that are far easier to evolve and maintain. What’s more, they can do it one step at a time, through a series of simple, proven steps. Now, there’s an authoritative and extensively updated version of Martin Fowler’s classic refactoring book that utilizes Ruby examples and idioms throughout–not code adapted from Java or any other environment.
+
 ### [Eloquent Ruby](http://www.r-5.org/files/books/computers/languages/ruby/main/Russ_Olsen-Eloquent_Ruby-EN.pdf)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41KtNo1H-DL._SX380_BO1,204,203,200_.jpg" width="120px"/>
